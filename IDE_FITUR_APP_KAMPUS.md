@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Project Tanya Dong.
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk menanyakan hal hal bersifat akademis, seperti pertanyaan tnentang materi perkuliahan, kisi kisi, serta bank materi di kampus.
+* **Target Pengguna Utama:** Mahasiswa S1 DTETI
+* **Value Proposition:** Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa.
+* **Diajukan oleh:** 521232
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
